@@ -1,5 +1,3 @@
-# Sparsh CRM
-
 ## App Overview
 Thank you for your interest in using our Android app! Unfortunately, the app is currently unavailable on the Google Play Store due to the requirement for a DUNS number, which is pending resolution. In the meantime, you can download and install the app directly using the APK provided below.
 
