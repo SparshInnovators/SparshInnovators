@@ -8,7 +8,7 @@ Follow these steps to download and install the APK:
 ### Step 1: Download the APK
 Click the badge below to download the APK file:
 
-[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)]([https://example.com/path-to-your-apk](https://github.com/SparshInnovators/sparsh-crm/releases/download/v/app-debug.apk))
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)](https://github.com/SparshInnovators/sparsh-crm/releases/download/v/app-debug.apk)
 
 ### Step 2: Enable Installation from Unknown Sources
 To install apps from outside the Google Play Store, you may need to enable installation from unknown sources:
