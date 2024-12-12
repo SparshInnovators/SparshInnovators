@@ -1,15 +1,14 @@
-# My Android App
-
 ## App Overview
-Thank you for your interest in using my Android app! Unfortunately, the app is currently unavailable on the Google Play Store due to the requirement for a DUNS number, which is pending resolution. In the meantime, you can download and install the app directly using the APK provided below.
+Thank you for your interest in using Sparsh CRM Android app! Unfortunately, the app is currently unavailable on the Google Play Store due to the requirement for a DUNS number, which is pending resolution. In the meantime, you can download and install the app directly using the APK provided below.
 
 ## How to Download and Install the APK
 
 Follow these steps to download and install the APK:
 
 ### Step 1: Download the APK
-- Scroll to the bottom of this page.
-- Click on the **Download APK** button below to download the app file to your device.
+Click the badge below to download the APK file:
+
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge)]([https://example.com/path-to-your-apk](https://github.com/SparshInnovators/sparsh-crm/releases/download/v/app-debug.apk))
 
 ### Step 2: Enable Installation from Unknown Sources
 To install apps from outside the Google Play Store, you may need to enable installation from unknown sources:
@@ -28,10 +27,7 @@ Once installed, you can find the app icon in your app drawer. Tap the icon to op
 ## Important Notes
 - Ensure your device has sufficient storage space before downloading the APK.
 - For your security, only download the APK from this trusted source.
-- If you encounter any issues, feel free to raise an issue or contact me via [email/email address or other contact method].
-
-## Download APK
-<button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">Download APK</button>
+- If you encounter any issues, feel free to raise an issue or contact me via [saurabh@aruvaa.com].
 
 Thank you for your understanding and support! We hope to resolve the Play Store issue soon and make the app available there again. Let us know if you have any feedback or questions.
 
