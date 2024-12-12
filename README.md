@@ -31,7 +31,7 @@ Once installed, you can find the app icon in your app drawer. Tap the icon to op
 - If you encounter any issues, feel free to raise an issue or contact me via [email/email address or other contact method].
 
 ## Download Link
-[Download APK](#)
+[Download APK](https://github.com/SparshInnovators/sparsh-crm/releases/download/v/app-debug.apk)
 
 Thank you for your understanding and support! We hope to resolve the Play Store issue soon and make the app available there again. Let us know if you have any feedback or questions.
 
